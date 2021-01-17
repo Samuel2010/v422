@@ -1,8 +1,8 @@
 Game Server for Windows(422)
 ===============
-Current latest version: 210112169
+Current latest version: 210117175
 
-Release Date：2021-01-12
+Release Date：2021-01-17
 
 Release Notes
 -----------------------------------
